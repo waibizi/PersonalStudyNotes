@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="146-LRU缓存机制" />
+        <module name="面试题25-合并两个排序的链表" />
+        <module name="面试题63-股票的最大利润" />
+        <module name="面试题14-I-剪绳子" />
+        <module name="121-买卖股票的最佳时机" />
+        <module name="面试题18-删除链表的节点" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

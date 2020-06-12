@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dALMfqCohiLto0UZOuFHG0E7aC" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BIO、NIO与AIO" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.NotFairLock">
+    <configuration name="FairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.FairLock" />
+      <module name="公平锁与非公平锁" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstructRearrang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.InstructRearrang" />
+      <module name="指令重排" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.JoinExample" />
+      <module name="指令重排" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotFairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.NotFairLock" />
+      <module name="公平锁与非公平锁" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.Test" />
+      <module name="Volatile不具备原子性" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.InstructRearrang" />
+      <item itemvalue="Application.JoinExample" />
+      <item itemvalue="Application.FairLock" />
+      <item itemvalue="Application.NotFairLock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NotFairLock" />
+        <item itemvalue="Application.FairLock" />
+        <item itemvalue="Application.InstructRearrang" />
+        <item itemvalue="Application.JoinExample" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="" />
+      <created>1591862904429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591862904429</updated>
+      <workItem from="1591862906759" duration="824000" />
+      <workItem from="1591863738660" duration="5893000" />
+      <workItem from="1591882313653" duration="10595000" />
+      <workItem from="1591981583840" duration="904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1591863767620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591863767620" />
+    <state x="410" y="167" width="1139" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591868349127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="167" width="1139" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591868349127" />
+    <state x="718" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1591866668463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591866668463" />
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1591951866815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951866815" />
+    <state width="1869" height="333" key="GridCell.Tab.0.bottom" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.0.center" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.0.left" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.0.right" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.1.bottom" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.1.center" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.1.left" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="333" key="GridCell.Tab.1.right" timestamp="1591951867781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="333" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1591895359166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591895359166" />
+    <state x="7" y="84" key="new project wizard" timestamp="1591895351585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591895351585" />
+  </component>
+</project>

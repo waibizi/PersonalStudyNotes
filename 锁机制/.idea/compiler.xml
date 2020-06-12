@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Volatile不具备原子性" />
+        <module name="公平锁与非公平锁" />
+        <module name="volatile内存屏障例子" />
+        <module name="指令重排" />
+        <module name="CAS与volatile的碰撞" />
+        <module name="读写锁" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CAS与volatile的碰撞" target="1.8" />
+      <module name="Volatile不具备原子性" target="1.8" />
+      <module name="volatile内存屏障例子" target="1.8" />
+      <module name="公平锁与非公平锁" target="1.8" />
+      <module name="指令重排" target="1.8" />
+      <module name="读写锁" target="1.8" />
+      <module name="锁机制" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
