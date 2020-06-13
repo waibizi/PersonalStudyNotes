@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="" />
+    <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/ReadWriteLockDemo.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,28 +40,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dALMfqCohiLto0UZOuFHG0E7aC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BIO、NIO与AIO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../设计模式" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.NotFairLock">
+  <component name="RunManager" selected="Application.ReadWriteLockDemo">
     <configuration name="FairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.FairLock" />
       <module name="公平锁与非公平锁" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="PATTERN" value="com.waibizi.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,20 +79,7 @@
       <module name="指令重排" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waibizi.JoinExample" />
-      <module name="指令重排" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="PATTERN" value="com.waibizi.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,7 +92,7 @@
       <module name="公平锁与非公平锁" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="PATTERN" value="com.waibizi.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waibizi.Test" />
-      <module name="Volatile不具备原子性" />
+    <configuration name="ReadWriteLockDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.test.ReadWriteLockDemo" />
+      <module name="读写锁" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="PATTERN" value="com.waibizi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.demo.ReadWriteLockDemo" />
+      <module name="读写锁" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.InstructRearrang" />
-      <item itemvalue="Application.JoinExample" />
       <item itemvalue="Application.FairLock" />
       <item itemvalue="Application.NotFairLock" />
+      <item itemvalue="Application.ReadWriteLockDemo" />
+      <item itemvalue="Application.ReadWriteLockDemo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.ReadWriteLockDemo (1)" />
         <item itemvalue="Application.NotFairLock" />
         <item itemvalue="Application.FairLock" />
         <item itemvalue="Application.InstructRearrang" />
-        <item itemvalue="Application.JoinExample" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -126,12 +156,23 @@
       <workItem from="1591862906759" duration="824000" />
       <workItem from="1591863738660" duration="5893000" />
       <workItem from="1591882313653" duration="10595000" />
-      <workItem from="1591981583840" duration="904000" />
+      <workItem from="1591981583840" duration="5277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="312" y="0" key="#Project_Structure" timestamp="1591863767620">
@@ -146,26 +187,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591866668463" />
-    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1591951866815">
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1592024804611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951866815" />
-    <state width="1869" height="333" key="GridCell.Tab.0.bottom" timestamp="1591951867781">
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024804611" />
+    <state width="1869" height="124" key="GridCell.Tab.0.bottom" timestamp="1592024805752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
-    <state width="1869" height="333" key="GridCell.Tab.0.center" timestamp="1591951867781">
+    <state width="1869" height="124" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024805752" />
+    <state width="1869" height="124" key="GridCell.Tab.0.center" timestamp="1592024805751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="333" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
-    <state width="1869" height="333" key="GridCell.Tab.0.left" timestamp="1591951867781">
+    <state width="1869" height="124" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024805751" />
+    <state width="1869" height="124" key="GridCell.Tab.0.left" timestamp="1592024805751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="333" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
-    <state width="1869" height="333" key="GridCell.Tab.0.right" timestamp="1591951867781">
+    <state width="1869" height="124" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024805751" />
+    <state width="1869" height="124" key="GridCell.Tab.0.right" timestamp="1592024805752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="333" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591951867781" />
+    <state width="1869" height="124" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024805752" />
     <state width="1869" height="333" key="GridCell.Tab.1.bottom" timestamp="1591951867781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
