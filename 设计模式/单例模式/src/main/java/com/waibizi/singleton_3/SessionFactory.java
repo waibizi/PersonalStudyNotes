@@ -18,12 +18,12 @@ public class SessionFactory {
     //提供一个静态的公有方法，当使用到该方法时，才去创建instance
     //懒汉式
     public static SessionFactory getInstance() throws InterruptedException {
-        if (SessionFactory.instance == null) {
+        if (instance == null) {
             //模拟线程不安全导致问题，也就是两个线程都会进行实例化
             Thread.sleep(3000L);
-            SessionFactory.instance = new SessionFactory();
+            instance = new SessionFactory();
         }
-        return SessionFactory.instance;
+        return instance;
     }
 
     //一个测试方法
