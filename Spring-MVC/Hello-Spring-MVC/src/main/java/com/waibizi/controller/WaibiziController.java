@@ -11,12 +11,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @Version 1.0
  */
 @Controller
-@RequestMapping("/test")
+@RequestMapping("/waibizi")
 public class WaibiziController {
     @ResponseBody
-    @RequestMapping("/test")
-    public String test() {
-        System.out.println("我是springmvc框架");
+    @RequestMapping("/mvc")
+    public String waibizi() {
+        System.out.println("waibizi come in");
         return "success";
     }
 }
