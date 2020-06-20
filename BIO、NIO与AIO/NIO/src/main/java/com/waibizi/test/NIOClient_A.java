@@ -3,7 +3,6 @@ package com.waibizi.test;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
-import java.nio.channels.SelectableChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.nio.channels.SocketChannel;
@@ -11,7 +10,6 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
 import java.util.Scanner;
-import java.util.Set;
 
 /**
  * @Author 歪鼻子
@@ -23,16 +21,18 @@ public class NIOClient_A {
     private Charset charset = StandardCharsets.UTF_8;
     private Selector selector;
     private SocketChannel socketChannel;
+    private boolean register = false;
 
     /**
      * 初始化客户端
      * @throws IOException
      */
     public void init(int port) throws IOException {
-        selector = Selector.open();
+
         socketChannel = SocketChannel.open();
         //配置为非阻塞模式
         socketChannel.configureBlocking(false);
+        selector = Selector.open();
         //注册读状态
         socketChannel.register(selector, SelectionKey.OP_READ);
         //连接服务器
@@ -45,10 +45,11 @@ public class NIOClient_A {
      */
     public void start(){
         new Thread(() -> {
-            try {
-                while (selector.select() > 0){
+            while (true){
+                try {
+                    selector.select();
                     Iterator<SelectionKey> iterator = selector.selectedKeys().iterator();
-                    if (iterator.hasNext()){
+                    while (iterator.hasNext()){
                         SelectionKey key = iterator.next();
                         if (key.isValid())if (key.isReadable()){
                             SocketChannel channel = (SocketChannel) key.channel();
@@ -62,12 +63,11 @@ public class NIOClient_A {
                             System.out.println(stringBuilder.toString());
                         }
                     }
+                }catch (Exception e){
+                    e.printStackTrace();
                 }
-            }catch (Exception e){
-                e.printStackTrace();
             }
         }).start();
-
     }
 
     /**
@@ -78,14 +78,18 @@ public class NIOClient_A {
         Scanner scanner = new Scanner(System.in);
         String msg;
         while ((msg = scanner.nextLine())!=null){
-            socketChannel.write(charset.encode(msg));
+            if (!register){
+                socketChannel.write(charset.encode(String.format("register:->",msg)));
+                register = !register;
+            }else {
+                socketChannel.write(charset.encode(msg));
+            }
         }
         
     }
     public static void main(String[] args) throws IOException, InterruptedException {
         NIOClient_A Client_A = new NIOClient_A();
                     Client_A.init(6666);
-                    Thread.sleep(300L);
                     Client_A.start();
                     Client_A.write();
     }

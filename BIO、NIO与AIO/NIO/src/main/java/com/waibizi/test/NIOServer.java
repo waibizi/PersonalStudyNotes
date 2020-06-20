@@ -10,7 +10,6 @@ import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
-import java.util.Set;
 import java.util.concurrent.Executors;
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -63,16 +62,29 @@ public class NIOServer {
     public void listen() throws IOException {
         System.out.println("服务端启动成功！");
         //轮询访问selector
-        while(selector.select()>0){
+        while (true){
+            selector.select();
             //获得selector中选中的项的迭代器，选中的项为注册的事件
             Iterator<?> iterator = selector.selectedKeys().iterator();
             while(iterator.hasNext()){
                 SelectionKey key = (SelectionKey) iterator.next();
-                //删除已经选择的key，防止重复处理
+//                //删除已经选择的key，防止重复处理
                 iterator.remove();
                 handler(key);
             }
+            //清空选择建
+            selector.selectedKeys().clear();
         }
+//        while(selector.select()>0){
+//            //获得selector中选中的项的迭代器，选中的项为注册的事件
+//            Iterator<?> iterator = selector.selectedKeys().iterator();
+//            while(iterator.hasNext()){
+//                SelectionKey key = (SelectionKey) iterator.next();
+////                //删除已经选择的key，防止重复处理
+//                iterator.remove();
+//                handler(key);
+//            }
+//        }
     }
     /**
      * 处理请求
@@ -111,10 +123,13 @@ public class NIOServer {
         //在这里可以给客户端发送信息
         System.out.println("新的客户端连接");
         //在和客户端连接成功之后，为了可以接收到客户端的信息，需要给通道设置读的权限
-        channel.register(this.selector,SelectionKey.OP_READ);
-        //回写连接信息
-        channel.write(welcome.duplicate());
-        welcome.rewind();
+        channel.register(selector,SelectionKey.OP_READ);
+//        //回写连接信息
+//        channel.write(welcome.duplicate());
+        welcome.flip();
+        channel.write(welcome);
+
+
     }
 
     /**
