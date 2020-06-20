@@ -12,15 +12,11 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  */
 class DefQueue{
     private int data;
-    ReadWriteLock rwLock = new ReentrantReadWriteLock(true);
+    ReadWriteLock rwLock = new ReentrantReadWriteLock();
     public void get(){//读操作
         rwLock.readLock().lock();//加读锁
         try {
-            System.out.println(Thread.currentThread().getName()+" Be ready to get data");
-            Thread.sleep((long)(Math.random() * 1000));
             System.out.println(Thread.currentThread().getName() + " Get the data = " + data);
-        }catch (InterruptedException e){
-            e.printStackTrace();
         }finally {
             rwLock.readLock().unlock();//释放读锁
         }
@@ -28,11 +24,8 @@ class DefQueue{
     public void put(int data){//写操作
         rwLock.writeLock().lock();
         try {
-            System.out.println(Thread.currentThread().getName()+" Be ready to write data");
-            Thread.sleep((long)(Math.random() * 1000));
             this.data = data;
-        }catch (InterruptedException e){
-            e.printStackTrace();
+            System.out.println(Thread.currentThread().getName()+" Start to write data ");
         }finally {
             rwLock.writeLock().unlock();
         }
@@ -41,19 +34,15 @@ class DefQueue{
 public class ReadWriteLockDemo {
     public static void main(String[] args) {
         DefQueue queue = new DefQueue();
-        for (int i = 0;i < 10; i++){
+        //启动线程在某一时刻进行进行写操作
+        for (int i = 0;i < 100; i++){
             //启动线程进行读操作
-            new Thread(() -> {
-                while (true){
-                    queue.get();
-                }
-            }).start();
-            //启动线程进行写操作
-            new Thread(() -> {
-                while (true){
+            new Thread(queue::get).start();
+            if (i == 4){
+                new Thread(() -> {
                     queue.put(new Random().nextInt(10000));
-                }
-            }).start();
+                }).start();
+            }
         }
     }
 }

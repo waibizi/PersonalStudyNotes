@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Netty.iml" filepath="$PROJECT_DIR$/.idea/Netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-Day2/Netty-Day2.iml" filepath="$PROJECT_DIR$/Netty-Day2/Netty-Day2.iml" />
     </modules>
   </component>
 </project>

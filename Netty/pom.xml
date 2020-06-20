@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>HelloWorld</module>
+        <module>Netty-Day2</module>
     </modules>
 
     <dependencies>

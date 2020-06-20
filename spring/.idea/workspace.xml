@@ -20,127 +20,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e2750a-c225-44d2-9651-80fd74218a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JVM/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/src/main/java/com/waibizi/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/src/main/java/com/waibizi/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/target/classes/com/waibizi/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MySQL/Day1-MySQL学习笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_dao_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-1/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-2/AOP-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/FirstBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/SecondBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/config/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/postProcessor/MyBeanFactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/waibizi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/bean/FirstBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/bean/SecondBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/config/BeanConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/waibizi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环依赖-1/循环依赖-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_4/SessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_5/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_5/SessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_6/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_6/SessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/smartfox_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/smartfox_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/JVM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/aop/AopTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/aop/AopTransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/dao/RentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/dao/RentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/service/RentingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/src/main/java/com/waibizi/service/RentingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/transaction/TransactionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/transaction/TransactionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/waibizi/waibizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/waibizi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/META-INF/AOP.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/aop/AopTransaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/dao/RentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/service/RentingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/service/impl/RentingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/transaction/TransactionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/waibizi/waibizi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/AOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/smartfox_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/AOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/src/main/java/com/waibizi/aop/AopLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/src/main/java/com/waibizi/aop/AopLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/src/main/java/com/waibizi/service/RentingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/service/RentingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/src/main/java/com/waibizi/waibizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/src/main/java/com/waibizi/waibizi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/target/classes/com/waibizi/aop/AopLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/target/classes/com/waibizi/aop/AopLog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/target/classes/com/waibizi/service/RentingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/target/classes/com/waibizi/service/RentingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/target/classes/com/waibizi/service/impl/RentingServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/target/classes/com/waibizi/service/impl/RentingServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/target/classes/com/waibizi/waibizi.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/target/classes/com/waibizi/waibizi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-1/target/classes/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP1/AOP1.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/单例模式/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/单例模式/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_3/SessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_3/SessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/BenchmarkLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty-Day2/Netty-Day2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty-Day2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty-Day2/src/main/java/com/waibizi/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty-Day2/src/main/java/com/waibizi/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty-Day2/src/main/java/com/waibizi/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/java/com/waibizi/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/DefQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/ReadWriteLockDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +119,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../source/Spring-Framework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -215,7 +161,9 @@
       <option name="presentableId" value="Default" />
       <updated>1592054010422</updated>
       <workItem from="1592054011842" duration="9361000" />
-      <workItem from="1592117841848" duration="335000" />
+      <workItem from="1592117841848" duration="4157000" />
+      <workItem from="1592413166459" duration="1120000" />
+      <workItem from="1592417596211" duration="608000" />
     </task>
     <servers />
   </component>
@@ -246,6 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592067977263" />
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1592159423199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592159423199" />
     <state width="1869" height="381" key="GridCell.Tab.0.bottom" timestamp="1592068940086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -294,20 +246,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592054765692" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592068859608">
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592117885311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068859608" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/waibizi.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592117885311" />
   </component>
 </project>

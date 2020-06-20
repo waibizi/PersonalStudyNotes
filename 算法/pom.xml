@@ -15,6 +15,8 @@
         <module>面试题14-I-剪绳子</module>
         <module>面试题18-删除链表的节点</module>
         <module>面试题25-合并两个排序的链表</module>
+        <module>面试题32-I-从上到下打印二叉树</module>
+        <module>面试题32-III-从上到下打印二叉树 III</module>
     </modules>
 
     <build>

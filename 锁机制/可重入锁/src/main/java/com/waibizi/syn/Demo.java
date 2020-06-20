@@ -7,4 +7,16 @@ package com.waibizi.syn;
  * @Version 1.0
  */
 public class Demo {
+    public static synchronized void method_1() throws InterruptedException {
+        System.out.println("I'm method one");
+        method_2();
+
+    }
+    public static synchronized void method_2() throws InterruptedException {
+        System.out.println("I'm method two");
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+       method_1();
+    }
 }

@@ -11,7 +11,7 @@ import java.nio.channels.SocketChannel;
  * @Description:
  * @Version 1.0
  */
-public class NIOClient {
+public class NIOClient1 {
     public static void main(String[] args) throws IOException {
         //得到一个网络通道
         SocketChannel channel = SocketChannel.open();
@@ -26,7 +26,7 @@ public class NIOClient {
             }
         }
         //如果连接成功，就开始发送数据
-        String msg = "歪鼻子已就位";
+        String msg = "歪鼻子已就位!";
         //将发送数据以字节的形式写入到buffer当中
         ByteBuffer buffer = ByteBuffer.wrap(msg.getBytes());
         //将buffer写入到channel当中

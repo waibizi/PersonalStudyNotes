@@ -15,6 +15,8 @@
         <module>指令重排</module>
         <module>公平锁与非公平锁</module>
         <module>读写锁</module>
+        <module>可重入锁</module>
+        <module>自旋锁</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->

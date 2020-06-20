@@ -7,10 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Optional" />
+        <module name="Lambda" />
+        <module name="Stream" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Optional" target="1.5" />
+      <module name="Java8" target="8" />
+      <module name="Lambda" target="8" />
+      <module name="Optional" target="8" />
+      <module name="Stream" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

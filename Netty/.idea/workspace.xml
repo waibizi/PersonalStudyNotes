@@ -20,28 +20,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b3039f-ccd7-4de3-9163-4ecc5338de7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/libraries/Maven__org_ow2_asm_asm_all_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/设计模式.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式/src/main/java/com/waibizi/singleton_1/SessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../锁机制/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/BenchmarkLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Netty-Day2/Netty-Day2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Netty-Day2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/java/com/waibizi/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/代理模式/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/代理模式/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/代理模式/代理模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/代理模式/代理模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/ReadWriteLockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/DefQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/ReadWriteLockDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,22 +106,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ctxzdeblov9LVFGluoSmjs9TbE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDK" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,6 +165,13 @@
       <workItem from="1591362890879" duration="780000" />
       <workItem from="1591368170506" duration="685000" />
       <workItem from="1591976983526" duration="5362000" />
+      <workItem from="1592292210853" duration="8380000" />
+      <workItem from="1592355259546" duration="1224000" />
+      <workItem from="1592411509454" duration="9000" />
+      <workItem from="1592416130606" duration="2732000" />
+      <workItem from="1592463020419" duration="277000" />
+      <workItem from="1592463315119" duration="9000" />
+      <workItem from="1592463385452" duration="4000" />
     </task>
     <servers />
   </component>
@@ -131,35 +188,43 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1591978380048">
+    <state x="718" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1592418637520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591978380048" />
-    <state width="1869" height="375" key="GridCell.Tab.0.bottom" timestamp="1592025096722">
+    <state x="718" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592418637520" />
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1592410749302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592025096722" />
-    <state width="1869" height="375" key="GridCell.Tab.0.center" timestamp="1592025096721">
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592410749302" />
+    <state width="1869" height="387" key="GridCell.Tab.0.bottom" timestamp="1592295497447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592025096721" />
-    <state width="1869" height="375" key="GridCell.Tab.0.left" timestamp="1592025096721">
+    <state width="1869" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592295497447" />
+    <state width="1869" height="387" key="GridCell.Tab.0.center" timestamp="1592295497447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592025096721" />
-    <state width="1869" height="375" key="GridCell.Tab.0.right" timestamp="1592025096721">
+    <state width="1869" height="387" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592295497447" />
+    <state width="1869" height="387" key="GridCell.Tab.0.left" timestamp="1592295497447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592025096721" />
-    <state x="381" y="0" key="SettingsEditor" timestamp="1591980884691">
+    <state width="1869" height="387" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592295497447" />
+    <state width="1869" height="387" key="GridCell.Tab.0.right" timestamp="1592295497447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="381" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591980884691" />
-    <state x="3" y="105" key="new project wizard" timestamp="1591976999287">
+    <state width="1869" height="387" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592295497447" />
+    <state x="381" y="0" key="SettingsEditor" timestamp="1592293864054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591976999287" />
+    <state x="381" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592293864054" />
+    <state x="3" y="105" key="new project wizard" timestamp="1592416149023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592416149023" />
   </component>
 </project>
