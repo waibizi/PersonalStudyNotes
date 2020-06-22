@@ -19,4 +19,16 @@ public class WaibiziController {
         System.out.println("waibizi come in");
         return "success";
     }
+    /*转发，会转发request对象，简单理解就是转发的话，session有效*/
+    @RequestMapping("/forward")
+    public String forward(){
+        System.out.println("我是forward");
+        return "forward:/waibizi/mvc";
+    }
+    /*重定向，不会传递request对象，简单理解就是重定向的话，session无效*/
+    @RequestMapping("/redirect")
+    public String redirect(){
+        System.out.println("我是forward");
+        return "redirect:/waibizi/mvc";
+    }
 }

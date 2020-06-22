@@ -17,13 +17,6 @@
     <context:component-scan base-package="com.waibizi.controller" />
     <!-- 添加注解驱动，扩充了注解驱动，可以将请求参数绑定到控制器参数 -->
     <mvc:annotation-driven enable-matrix-variables="true" />
-    <!-- 静态资源处理，静态资源文件路径设置 -->
-    <mvc:resources location="/styles/" mapping="/styles/.**" />
-    <mvc:resources location="/images/" mapping="/images/.**" />
-    <mvc:resources location="/plugins/" mapping="/plugins/.**" />
-    <mvc:resources location="/scripts/" mapping="/scripts/.**" />
-    <mvc:resources location="/html/" mapping="/html/.**" />
-    <mvc:resources location="/index.html" mapping="/index.html" />
     <!--避免IE执行AJAX时，返回JSON出现下载文件 -->
     <bean id="mappingJacksonHttpMessageConverter"
           class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">

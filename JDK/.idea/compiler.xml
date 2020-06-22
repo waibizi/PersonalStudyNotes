@@ -6,16 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Optional" />
-        <module name="Lambda" />
+        <module name="线程通信" />
+        <module name="ReentrantLock" />
+        <module name="流" />
+        <module name="CountDownLatch" />
+        <module name="Semaphore" />
         <module name="Stream" />
+        <module name="Optional" />
+        <module name="线程池" />
+        <module name="线程中止" />
+        <module name="线程封闭" />
+        <module name="Lambda" />
+        <module name="CyclicBarrier" />
+        <module name="第九章" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Java8" target="8" />
-      <module name="Lambda" target="8" />
-      <module name="Optional" target="8" />
-      <module name="Stream" target="8" />
+      <module name="CountDownLatch" target="1.5" />
+      <module name="CyclicBarrier" target="1.5" />
+      <module name="Java8" target="1.8" />
+      <module name="JDK" target="1.8" />
+      <module name="Lambda" target="1.8" />
+      <module name="Optional" target="1.5" />
+      <module name="ReentrantLock" target="1.5" />
+      <module name="Semaphore" target="1.5" />
+      <module name="Stream" target="1.5" />
+      <module name="并发包" target="1.5" />
+      <module name="微专业" target="1.8" />
+      <module name="核心技术卷1" target="1.8" />
+      <module name="核心技术卷2" target="8" />
+      <module name="流" target="8" />
+      <module name="第九章" target="1.8" />
+      <module name="线程中止" target="1.5" />
+      <module name="线程封闭" target="1.5" />
+      <module name="线程池" target="6" />
+      <module name="线程通信" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -9,6 +9,16 @@
         <option value="$PROJECT_DIR$/Java8/Optional/pom.xml" />
         <option value="$PROJECT_DIR$/Java8/Stream/pom.xml" />
         <option value="$PROJECT_DIR$/Java8/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/微专业/pom.xml" />
+        <option value="$PROJECT_DIR$/微专业/线程通信/pom.xml" />
+        <option value="$PROJECT_DIR$/微专业/线程池/pom.xml" />
+        <option value="$PROJECT_DIR$/微专业/线程封闭/pom.xml" />
+        <option value="$PROJECT_DIR$/微专业/线程中止/pom.xml" />
+        <option value="$PROJECT_DIR$/核心技术卷1/pom.xml" />
+        <option value="$PROJECT_DIR$/核心技术卷2/pom.xml" />
+        <option value="$PROJECT_DIR$/并发包/pom.xml" />
+        <option value="$PROJECT_DIR$/核心技术卷1/第九章/pom.xml" />
       </list>
     </option>
   </component>

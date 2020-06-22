@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.waibizi</groupId>
-    <artifactId>jishu2</artifactId>
+    <artifactId>核心技术卷2</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
     <build>
@@ -21,7 +21,6 @@
         </plugins>
     </build>
     <modules>
-        <module>Java8流图</module>
         <module>流</module>
     </modules>
 

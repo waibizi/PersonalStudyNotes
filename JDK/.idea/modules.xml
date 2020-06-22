@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/并发包/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/并发包/CountDownLatch/CountDownLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发包/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/并发包/CyclicBarrier/CyclicBarrier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JDK.iml" filepath="$PROJECT_DIR$/.idea/JDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Java8/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8/Optional/Optional.iml" filepath="$PROJECT_DIR$/Java8/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发包/ReentrantLock/ReentrantLock.iml" filepath="$PROJECT_DIR$/并发包/ReentrantLock/ReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发包/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/并发包/Semaphore/Semaphore.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8/Stream/Stream.iml" filepath="$PROJECT_DIR$/Java8/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发包/并发包.iml" filepath="$PROJECT_DIR$/并发包/并发包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微专业/微专业.iml" filepath="$PROJECT_DIR$/微专业/微专业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/核心技术卷1/核心技术卷1.iml" filepath="$PROJECT_DIR$/核心技术卷1/核心技术卷1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/核心技术卷2/核心技术卷2.iml" filepath="$PROJECT_DIR$/核心技术卷2/核心技术卷2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/核心技术卷2/流/流.iml" filepath="$PROJECT_DIR$/核心技术卷2/流/流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/核心技术卷1/第九章/第九章.iml" filepath="$PROJECT_DIR$/核心技术卷1/第九章/第九章.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微专业/线程中止/线程中止.iml" filepath="$PROJECT_DIR$/微专业/线程中止/线程中止.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微专业/线程封闭/线程封闭.iml" filepath="$PROJECT_DIR$/微专业/线程封闭/线程封闭.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微专业/线程池/线程池.iml" filepath="$PROJECT_DIR$/微专业/线程池/线程池.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微专业/线程通信/线程通信.iml" filepath="$PROJECT_DIR$/微专业/线程通信/线程通信.iml" />
     </modules>
   </component>
 </project>
