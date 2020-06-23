@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CAS与volatile的碰撞/CAS与volatile的碰撞.iml" filepath="$PROJECT_DIR$/CAS与volatile的碰撞/CAS与volatile的碰撞.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StampedLock锁/StampedLock锁.iml" filepath="$PROJECT_DIR$/StampedLock锁/StampedLock锁.iml" />
       <module fileurl="file://$PROJECT_DIR$/Volatile不具备原子性/Volatile不具备原子性.iml" filepath="$PROJECT_DIR$/Volatile不具备原子性/Volatile不具备原子性.iml" />
       <module fileurl="file://$PROJECT_DIR$/volatile内存屏障例子/volatile内存屏障例子.iml" filepath="$PROJECT_DIR$/volatile内存屏障例子/volatile内存屏障例子.iml" />
       <module fileurl="file://$PROJECT_DIR$/公平锁与非公平锁/公平锁与非公平锁.iml" filepath="$PROJECT_DIR$/公平锁与非公平锁/公平锁与非公平锁.iml" />

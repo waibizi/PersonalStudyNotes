@@ -20,28 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Netty/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可重入锁/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可重入锁/src/main/java/com/waibizi/syn/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可重入锁/target/classes/com/waibizi/syn/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可重入锁/可重入锁.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自旋锁/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自旋锁/自旋锁.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/spring-annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/config/WaibiziConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/resources/person.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/config/WaibiziConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSortPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/.idea/Base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base/10字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/10字符串.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/spring.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/AOP-1/AOP-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/AOP-1/AOP-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/读写锁/target/classes/com/waibizi/DefQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/读写锁/target/classes/com/waibizi/ReadWriteLockDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../设计模式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -178,6 +192,8 @@
       <workItem from="1591981583840" duration="5277000" />
       <workItem from="1592112772024" duration="633000" />
       <workItem from="1592117840355" duration="10173000" />
+      <workItem from="1592814338336" duration="648000" />
+      <workItem from="1592903736901" duration="614000" />
     </task>
     <servers />
   </component>
@@ -252,9 +268,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592126003316" />
-    <state x="7" y="84" key="new project wizard" timestamp="1592124445552">
+    <state x="7" y="84" key="new project wizard" timestamp="1592814371518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592124445552" />
+    <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592814371518" />
   </component>
 </project>
