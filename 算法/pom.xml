@@ -18,6 +18,9 @@
         <module>面试题32-I-从上到下打印二叉树</module>
         <module>面试题32-III-从上到下打印二叉树 III</module>
         <module>必修算法</module>
+        <module>必修算法/十大排序/选择排序</module>
+        <module>必修数据结构</module>
+        <module>必修数据结构/堆</module>
     </modules>
 
     <build>

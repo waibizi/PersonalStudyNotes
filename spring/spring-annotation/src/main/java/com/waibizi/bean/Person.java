@@ -1,6 +1,8 @@
 package com.waibizi.bean;
 
 import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 import org.springframework.beans.factory.annotation.Value;
 
 /**
@@ -9,13 +11,11 @@ import org.springframework.beans.factory.annotation.Value;
  * @Description:
  * @Version 1.0
  */
-@Data
+@Getter
+@Setter
 public class Person {
 
-    //使用@Value赋值
-    //1.基本数值
-
-    @Value("张三")
+    @Value("歪鼻子")
     private String name;
 
     @Value("#{20-2}")
@@ -23,4 +23,8 @@ public class Person {
 
     @Value("${person.nickName}")
     private String nickName;
+
+    public Person() {
+        System.out.println("Person类被创建对象");
+    }
 }

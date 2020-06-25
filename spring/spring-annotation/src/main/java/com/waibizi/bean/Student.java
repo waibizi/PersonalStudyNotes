@@ -1,12 +1,7 @@
 package com.waibizi.bean;
-
-import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
-
-import java.util.Objects;
-
 /**
  * @Author 歪鼻子
  * @Date 2020/6/22 23:47

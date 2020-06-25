@@ -20,42 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Base/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/spring-annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/config/WaibiziConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/resources/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/bean/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/config/WaibiziConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSortPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/.idea/Base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base/10字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/10字符串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSortProPro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/AOP-1/AOP-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/AOP-1/AOP-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +161,7 @@
       <workItem from="1592112772024" duration="633000" />
       <workItem from="1592117840355" duration="10173000" />
       <workItem from="1592814338336" duration="648000" />
-      <workItem from="1592903736901" duration="614000" />
+      <workItem from="1592903736901" duration="1229000" />
     </task>
     <servers />
   </component>

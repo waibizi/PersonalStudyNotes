@@ -1,0 +1,18 @@
+server:
+  port: 8050 # 端口号
+
+spring:
+  application:
+    name: Server-B
+
+eureka:
+  client:
+    registerWithEureka: true # 服务注册开关
+    fetchRegistry: true # 服务发现开关
+    serviceUrl: # 注册到哪一个Eureka Server服务注册中心，多个中间用逗号分隔
+      defaultZone: http://localhost:10050/eureka
+  instance:
+    instanceId: ${spring.application.name}:${server.port} # 指定实例ID,页面会显示主机名
+    preferIpAddress: true     #访问路径可以显示IP地址
+    lease-renewal-interval-in-seconds: 30 #服务续约任务的调用间隔时间，默认为30秒
+    lease-expiration-duration-in-seconds: 10 #服务失效的时间，默认为90秒
