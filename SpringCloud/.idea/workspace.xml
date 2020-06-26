@@ -20,25 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2497b3d5-0a9e-46ee-b53f-e07ee5d0d883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/AbstractHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/BinaryTreeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/BinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/InorderPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/LevelOrderPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/service/UserService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/BinaryHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/dao/TestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/dao/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593006786063</updated>
       <workItem from="1593006789125" duration="9116000" />
-      <workItem from="1593162825686" duration="608000" />
+      <workItem from="1593162825686" duration="1223000" />
     </task>
     <servers />
   </component>
