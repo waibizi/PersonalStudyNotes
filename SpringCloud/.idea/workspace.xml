@@ -20,60 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2497b3d5-0a9e-46ee-b53f-e07ee5d0d883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/src/main/java/com/waibizi/ClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eureka/src/main/java/com/waibizi/EurekaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/com/waibizi/EurekaServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/src/main/java/com/waibizi/ZuulGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/src/main/java/com/waibizi/controller/RibbonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gateway/target/classes/com/waibizi/ZuulGateway.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-A/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-A/src/main/java/com/waibizi/A_ServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-A/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-A/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-A/target/classes/com/waibizi/A_ServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-B/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-B/src/main/java/com/waibizi/B_ServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-B/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-B/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server-B/target/classes/com/waibizi/B_ServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSortProPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/选择排序/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/选择排序/src/main/java/com/waibizi/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/选择排序/target/classes/com/waibizi/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/WaibiziApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/bean/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/config/WaibiziConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/src/main/java/com/waibizi/config/WaibiziConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/WaibiziApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/bean/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/config/WaibiziConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring-annotation/target/classes/com/waibizi/config/WaibiziConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/AbstractHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/utils/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/BinaryHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/Heap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +159,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593006786063</updated>
-      <workItem from="1593006789125" duration="8515000" />
+      <workItem from="1593006789125" duration="9116000" />
+      <workItem from="1593162825686" duration="608000" />
     </task>
     <servers />
   </component>
@@ -211,6 +177,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -224,38 +191,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593011122625" />
-    <state width="1543" height="361" key="GridCell.Tab.0.bottom" timestamp="1593018203469">
+    <state width="1543" height="361" key="GridCell.Tab.0.bottom" timestamp="1593093870341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203469" />
-    <state width="1543" height="361" key="GridCell.Tab.0.center" timestamp="1593018203468">
+    <state width="1543" height="361" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870341" />
+    <state width="1543" height="361" key="GridCell.Tab.0.center" timestamp="1593093870341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203468" />
-    <state width="1543" height="361" key="GridCell.Tab.0.left" timestamp="1593018203468">
+    <state width="1543" height="361" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870341" />
+    <state width="1543" height="361" key="GridCell.Tab.0.left" timestamp="1593093870341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203468" />
-    <state width="1543" height="361" key="GridCell.Tab.0.right" timestamp="1593018203468">
+    <state width="1543" height="361" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870341" />
+    <state width="1543" height="361" key="GridCell.Tab.0.right" timestamp="1593093870341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203468" />
-    <state width="1543" height="361" key="GridCell.Tab.1.bottom" timestamp="1593018203469">
+    <state width="1543" height="361" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870341" />
+    <state width="1543" height="361" key="GridCell.Tab.1.bottom" timestamp="1593093870342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203469" />
-    <state width="1543" height="361" key="GridCell.Tab.1.center" timestamp="1593018203469">
+    <state width="1543" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870342" />
+    <state width="1543" height="361" key="GridCell.Tab.1.center" timestamp="1593093870342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203469" />
-    <state width="1543" height="361" key="GridCell.Tab.1.left" timestamp="1593018203469">
+    <state width="1543" height="361" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870342" />
+    <state width="1543" height="361" key="GridCell.Tab.1.left" timestamp="1593093870342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203469" />
-    <state width="1543" height="361" key="GridCell.Tab.1.right" timestamp="1593018203469">
+    <state width="1543" height="361" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870342" />
+    <state width="1543" height="361" key="GridCell.Tab.1.right" timestamp="1593093870342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1543" height="361" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593018203469" />
+    <state width="1543" height="361" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593093870342" />
     <state x="381" y="78" key="SettingsEditor" timestamp="1593011124387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
