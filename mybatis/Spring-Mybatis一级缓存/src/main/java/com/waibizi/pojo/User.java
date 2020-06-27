@@ -1,11 +1,12 @@
 package com.waibizi.pojo;
+
 import lombok.Data;
 
 import java.io.Serializable;
 
 /**
  * @Author 歪鼻子
- * @Date 2020/6/26 18:35
+ * @Date 2020/6/26 22:03
  * @Description:
  * @Version 1.0
  */

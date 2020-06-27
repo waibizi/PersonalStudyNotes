@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JDBC" />
         <module name="一级缓存" />
+        <module name="Spring-Mybatis一级缓存" />
       </profile>
     </annotationProcessing>
   </component>

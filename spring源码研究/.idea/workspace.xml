@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="326cbdd9-e38c-4bc9-be16-71e023448c40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/config/WaibiziConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/init/WaibiziWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/tomcat/TomcatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/config/WaibiziConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/init/WaibiziWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/tomcat/TomcatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/spring事务.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring源码研究.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1drVHtstD4IDBTgTsJGwJlX5XJP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring事务" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="326cbdd9-e38c-4bc9-be16-71e023448c40" name="Default Changelist" comment="" />
+      <created>1593183114313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593183114313</updated>
+      <workItem from="1593183116466" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1593183127611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593183127611" />
+  </component>
+</project>

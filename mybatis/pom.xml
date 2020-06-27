@@ -11,6 +11,7 @@
     <modules>
         <module>JDBC</module>
         <module>一级缓存</module>
+        <module>Spring-Mybatis一级缓存</module>
     </modules>
     <dependencyManagement>
         <dependencies>
@@ -34,6 +35,31 @@
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-jdbc</artifactId>
                 <version>5.2.7.RELEASE</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-context</artifactId>
+                <version>5.2.7.RELEASE</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mybatis</groupId>
+                <artifactId>mybatis-spring</artifactId>
+                <version>2.0.3</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-webmvc</artifactId>
+                <version>5.2.7.RELEASE</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.tomcat</groupId>
+                <artifactId>tomcat-catalina</artifactId>
+                <version>8.5.43</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.tomcat.embed</groupId>
+                <artifactId>tomcat-embed-jasper</artifactId>
+                <version>8.5.45</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

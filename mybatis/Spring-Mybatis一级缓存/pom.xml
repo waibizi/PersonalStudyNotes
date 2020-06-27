@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>一级缓存</artifactId>
-
+    <artifactId>Spring-Mybatis一级缓存</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -33,6 +32,23 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis-spring</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.2.5.RELEASE</version>
+        </dependency>
     </dependencies>
+
 </project>

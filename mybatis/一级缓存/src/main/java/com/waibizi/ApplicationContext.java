@@ -21,7 +21,8 @@ public class ApplicationContext {
         /* 初始化数据源 */
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavio" +
+                "r=convertToNull&useSSL=true&serverTimezone=GMT%2B8");
         dataSource.setUsername("root");
         dataSource.setPassword("");
         /* 事务 */
@@ -45,11 +46,11 @@ public class ApplicationContext {
         /* 由于不采用Spring提供的注入，因为自己导入 */
         userService.SetUserDao(userDao);
         userService.query();
-        /* 关闭SqlSession,让一级缓存不生效 */
-        sqlSession.close();
-        sqlSession = sqlSessionFactory.openSession();
-        userDao = sqlSession.getMapper(UserDao.class);
-        userService.SetUserDao(userDao);
+//        /* 关闭SqlSession,让一级缓存不生效 */
+//        sqlSession.close();
+//        sqlSession = sqlSessionFactory.openSession();
+//        userDao = sqlSession.getMapper(UserDao.class);
+//        userService.SetUserDao(userDao);
         userService.query();
     }
 }
