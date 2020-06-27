@@ -20,47 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2497b3d5-0a9e-46ee-b53f-e07ee5d0d883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/config/WaibiziConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/dao/DirtyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/java/com/waibizi/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/ApplicationContext.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/config/WaibiziConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/Spring-Mybatis一级缓存/target/classes/com/waibizi/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring事务/spring事务.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/spring源码研究.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring源码研究/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Base/13跳转语句.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Base/14函数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/微专业/线程池/src/main/java/com/waibizi/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base/12格式化输出.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/12格式化输出.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/ApplicationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/ApplicationContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +148,7 @@
       <workItem from="1593006789125" duration="9116000" />
       <workItem from="1593162825686" duration="1223000" />
       <workItem from="1593183266204" duration="1385000" />
-      <workItem from="1593233250491" duration="1198000" />
+      <workItem from="1593233250491" duration="1815000" />
     </task>
     <servers />
   </component>

@@ -8,14 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="线程通信" />
         <module name="ReentrantLock" />
-        <module name="流" />
         <module name="CountDownLatch" />
+        <module name="线程封闭" />
         <module name="Semaphore" />
         <module name="Stream" />
         <module name="Optional" />
         <module name="线程池" />
         <module name="线程中止" />
-        <module name="线程封闭" />
+        <module name="流" />
         <module name="Lambda" />
         <module name="CyclicBarrier" />
         <module name="第九章" />
@@ -39,7 +39,7 @@
       <module name="第九章" target="1.8" />
       <module name="线程中止" target="1.5" />
       <module name="线程封闭" target="1.5" />
-      <module name="线程池" target="6" />
+      <module name="线程池" target="1.8" />
       <module name="线程通信" target="1.5" />
     </bytecodeTargetLevel>
   </component>
