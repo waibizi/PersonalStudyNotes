@@ -19,20 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284ffb4a-32c4-4201-938c-652f8133eb8d" name="Default Changelist" comment="修改笔记之前杂乱的文件结构">
-      <change afterPath="$PROJECT_DIR$/../Base/13跳转语句.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Base/14函数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base/12格式化输出.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/12格式化输出.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="284ffb4a-32c4-4201-938c-652f8133eb8d" name="Default Changelist" comment="学习线程池">
+      <change afterPath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/example/EXArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/example/EXPriorityBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/example/EXSynchronousQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/微专业/线程池/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/微专业/线程池/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/微专业/线程池/target/classes/com/waibizi/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/微专业/线程池/target/classes/com/waibizi/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/微专业/线程池/src/main/java/com/waibizi/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/微专业/线程池/target/classes/com/waibizi/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/微专业/线程池/target/classes/com/waibizi/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/微专业/线程池/线程池.iml" beforeDir="false" afterPath="$PROJECT_DIR$/微专业/线程池/线程池.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringCloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../项目管理课程/接口/Educational-System" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -81,13 +75,39 @@
       <recent name="E:\实习准备\面试准备\JDK\Java8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
+  <component name="RunManager" selected="Application.EXArrayBlockingQueue">
     <configuration name="BenchmarkLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.BenchmarkLoop" />
       <module name="Lambda" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.Demo2" />
+      <module name="线程池" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EXArrayBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.example.EXArrayBlockingQueue" />
+      <module name="线程池" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EXArrayBlockingQueue" />
+        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.BenchmarkLoop" />
       </list>
@@ -129,7 +151,7 @@
       <workItem from="1592410752764" duration="2387000" />
       <workItem from="1592813605850" duration="669000" />
       <workItem from="1592814319505" duration="17000" />
-      <workItem from="1593264883878" duration="1079000" />
+      <workItem from="1593264883878" duration="14777000" />
     </task>
     <task id="LOCAL-00001" summary="修改笔记之前杂乱的文件结构">
       <created>1592814189820</created>
@@ -138,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592814189820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="学习线程池">
+      <created>1593268924897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593268924897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,36 +188,53 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="修改笔记之前杂乱的文件结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改笔记之前杂乱的文件结构" />
+    <MESSAGE value="学习线程池" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习线程池" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1592814335376">
+    <state x="582" y="184" key="#Inspections" timestamp="1593313005366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592814335376" />
-    <state width="1869" height="232" key="GridCell.Tab.0.bottom" timestamp="1593265340005">
+    <state x="582" y="184" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593313005366" />
+    <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1593330117437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593265340005" />
-    <state width="1869" height="232" key="GridCell.Tab.0.center" timestamp="1593265340005">
+    <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593330117437" />
+    <state width="1869" height="51" key="GridCell.Tab.0.bottom" timestamp="1593341065978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593265340005" />
-    <state width="1869" height="232" key="GridCell.Tab.0.left" timestamp="1593265340005">
+    <state width="1869" height="51" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593341065978" />
+    <state width="1869" height="51" key="GridCell.Tab.0.center" timestamp="1593341065978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593265340005" />
-    <state width="1869" height="232" key="GridCell.Tab.0.right" timestamp="1593265340005">
+    <state width="1869" height="51" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593341065978" />
+    <state width="1869" height="51" key="GridCell.Tab.0.left" timestamp="1593341065978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593265340005" />
+    <state width="1869" height="51" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593341065978" />
+    <state width="1869" height="51" key="GridCell.Tab.0.right" timestamp="1593341065978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="51" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593341065978" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1592814104331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592814104331" />
-    <state x="3" y="105" key="new project wizard" timestamp="1592411158576">
+    <state x="1920" y="0" width="1256" height="868" key="dock-window-1" timestamp="1593279049366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1256" height="868" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593279049366" />
+    <state x="1920" y="18" width="1541" height="988" key="dock-window-2" timestamp="1593329969535">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="18" width="1541" height="988" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593329969535" />
+    <state x="7" y="106" key="new project wizard" timestamp="1593341064249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592411158576" />
+    <state x="7" y="106" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593341064249" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593278097409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593278097409" />
   </component>
 </project>

@@ -13,13 +13,10 @@ public class Demo2 {
     public static void main(String[] args) throws InterruptedException {
         ThreadPoolExecutor threadPoolExecutor = new
                 ThreadPoolExecutor(5,10,5, TimeUnit.SECONDS,
-                                   new LinkedBlockingDeque<>(3),Executors.defaultThreadFactory(),
+                                   new LinkedBlockingDeque<>(3),Executors.privilegedThreadFactory(),
                                    (r,executor)->{
                                    System.out.println("有任务被拒绝了");
                                    });
-
-
-
         for (int i = 0; i < 15; i++) {
             int n = i;
             //提交一个可运行任务以执行，并返回一个future对象，执行结果为null
@@ -39,7 +36,5 @@ public class Demo2 {
         Thread.sleep(1000L);
         //尝试停止正在执行的任务，停止等待的任务的处理，并返回等待执行任务的列表
         List<Runnable> shutdownNow = threadPoolExecutor.shutdownNow();
-
-
     }
 }
