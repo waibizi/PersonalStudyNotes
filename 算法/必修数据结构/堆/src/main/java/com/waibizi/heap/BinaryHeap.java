@@ -10,26 +10,39 @@ import java.util.Comparator;
  */
 public class BinaryHeap<E> extends AbstractHeap<E> implements BinaryTreeInfo {
     private E[] elements;
-
     private static final int DEFAULT_CAPACITY = 10;
     public BinaryHeap(E[] elements,Comparator<E> comparator) {
         super(comparator);
         if (elements == null || elements.length == 0){
             this.elements = (E[]) new Object[DEFAULT_CAPACITY];
         }else{
+            /* 创建一个乱堆，不要直接指向，Java直接指向是指向地址 */
             size = elements.length;
             int capacity = Math.max(elements.length,DEFAULT_CAPACITY);
             this.elements = (E[]) new Object[capacity];
             for (int i = 0;i <  elements.length; i++){
                 this.elements[i]  = elements[i];
             }
-
+            heapify();
         }
     }
     public BinaryHeap(E[] elements) {
         this(elements,null);
     }
+    public BinaryHeap() {
+        this(null, null);
+    }
 
+    private void heapify(){
+        /* 自上而下的上滤 */
+        for (int i = 1; i < size; i++){
+            siftUp(i);
+        }
+        /* 自下而上的下滤 */
+        for (int i = (size >> 1) ;i >= 0; i++){
+            siftDown(i);
+        }
+    }
     @Override
     public void clear() {
         for (int i = 0; i < size ; i++){
@@ -48,24 +61,27 @@ public class BinaryHeap<E> extends AbstractHeap<E> implements BinaryTreeInfo {
     public void add(E element) {
         elementNotNullCheck(element);
         ensureCapacity(size+1);
+
         elements[size++] = element;
         siftUp(size-1);
     }
     @Override
     public E get() {
-        /*先检测堆是否为空*/
+        /* 先检测堆是否为空 */
         emptyCheck();
         return elements[0];
     }
     @Override
     public E remove() {
         emptyCheck();
-        int lastIndex = size--;
+        /* 此处有坑，要进行先赋值再减减操作 */
+        int lastIndex = --size;
         E root = elements[0];
         elements[0] = elements[lastIndex];
+
         elements[lastIndex] = null;
         siftDown(0);
-        return null;
+        return root;
     }
     /**
      *
@@ -77,15 +93,16 @@ public class BinaryHeap<E> extends AbstractHeap<E> implements BinaryTreeInfo {
         /* 叶子节点个数是（n+1）/2  非叶子节点的个数是n/2 */
         while (index < half){
             /* index有两种情况，有一类只有左子节点，有一类有左又有右子节点 */
-            /*默认为左子节点跟它进行比较*/
+            /* 默认为左子节点跟它进行比较 */
             int childIndex = (index << 1)+1;
             E child = elements[childIndex];
-            /*右子节点*/
+            /* 右子节点 */
             int rightIndex = childIndex + 1;
             /* 选出左右子节点最大的那一个 */
             if (rightIndex < size && compare(elements[rightIndex],child) > 0){
                 child = elements[childIndex = rightIndex];
             }
+
             if (compare(element,child) >= 0) break;
             /* 将子节点存放到index位置 */
             elements[index] = child;
@@ -94,9 +111,25 @@ public class BinaryHeap<E> extends AbstractHeap<E> implements BinaryTreeInfo {
         }
         elements[index] =  element;
     }
+
+    /**
+     * 直接将堆顶元素覆盖掉，然后进行下滤操作
+     * @param element 替换的元素
+     * @return
+     */
     @Override
     public E replace(E element) {
-        return null;
+        elementNotNullCheck(element);
+        E root = null;
+        if (size == 0){
+            elements[0] = element;
+            size++;
+        }else {
+            root = elements[0];
+            elements[0] = element;
+            siftDown(0);
+        }
+        return root;
     }
 
     private void emptyCheck(){
@@ -128,6 +161,7 @@ public class BinaryHeap<E> extends AbstractHeap<E> implements BinaryTreeInfo {
      * @param index 缩印下标
      */
     private void siftUp(int index){
+//        未优化之前的代码
 //        E e = elements[index];
 //        while (index > 0){
 //            int pindex = (index-1)>>1;

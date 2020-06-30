@@ -12,7 +12,9 @@ import java.util.Comparator;
 public abstract class AbstractHeap <E> implements Heap<E>{
     protected int size;   //堆的实际大小
     protected Comparator<E> comparator;
-
+    public AbstractHeap(Comparator<E> comparator) {
+        this.comparator = comparator;
+    }
     public AbstractHeap() {
         this(null);
     }
@@ -28,7 +30,5 @@ public abstract class AbstractHeap <E> implements Heap<E>{
     public boolean isEmpty() {
         return size == 0;
     }
-    public AbstractHeap(Comparator<E> comparator) {
-        this.comparator = comparator;
-    }
+
 }
