@@ -16,7 +16,11 @@
     </parent>
     <dependencyManagement>
         <dependencies>
-
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.18.12</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
     <build>
@@ -34,5 +38,6 @@
     </build>
     <modules>
         <module>ZSet</module>
+        <module>Spring-Data-Redis</module>
     </modules>
 </project>

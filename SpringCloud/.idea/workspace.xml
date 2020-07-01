@@ -20,11 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2497b3d5-0a9e-46ee-b53f-e07ee5d0d883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Base/13跳转语句.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Base/14函数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/微专业/线程池/src/main/java/com/waibizi/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base/12格式化输出.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/12格式化输出.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/service/SingleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SingleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/src/main/java/com/waibizi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/src/main/java/com/waibizi/dynamic/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/src/main/java/com/waibizi/dynamic/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +163,8 @@
       <workItem from="1593162825686" duration="1223000" />
       <workItem from="1593183266204" duration="1385000" />
       <workItem from="1593233250491" duration="1815000" />
+      <workItem from="1593503675638" duration="598000" />
+      <workItem from="1593593404710" duration="10000" />
     </task>
     <servers />
   </component>
