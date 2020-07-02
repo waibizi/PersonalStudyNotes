@@ -20,15 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e2750a-c225-44d2-9651-80fd74218a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JVM/类加载机制/src/main/java/com/waibizi/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JVM/类加载机制/src/main/java/com/waibizi/ClassLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/AbstractHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/AbstractHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/src/main/java/com/waibizi/heap/BinaryHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/heap/AbstractHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/heap/AbstractHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/heap/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/堆/target/classes/com/waibizi/heap/BinaryHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/service/SingleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/service/SpringCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/WaibiziApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/service/SingleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/WaibiziApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SingleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SingleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SpringCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SpringCacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/ZSet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/ZSet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/ZSet/src/test/java/com/waibizi/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/ZSet/src/test/java/com/waibizi/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +143,8 @@
       <workItem from="1592932141279" duration="3750000" />
       <workItem from="1593183148534" duration="82000" />
       <workItem from="1593448555839" duration="53000" />
+      <workItem from="1593596374852" duration="686000" />
+      <workItem from="1593598142990" duration="9000" />
     </task>
     <servers />
   </component>

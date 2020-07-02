@@ -11,7 +11,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.3.0.RELEASE</version>
+        <version>2.2.5.RELEASE</version>
         <relativePath/>
     </parent>
     <dependencyManagement>
@@ -39,5 +39,6 @@
     <modules>
         <module>ZSet</module>
         <module>Spring-Data-Redis</module>
+        <module>Jedis</module>
     </modules>
 </project>

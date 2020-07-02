@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Jedis" />
         <module name="Spring-Data-Redis" />
         <module name="ZSet" />
       </profile>
@@ -13,6 +14,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Jedis" options="-parameters" />
       <module name="Spring-Data-Redis" options="-parameters" />
       <module name="ZSet" options="-parameters" />
     </option>

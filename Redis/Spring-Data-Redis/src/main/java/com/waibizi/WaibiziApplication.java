@@ -1,12 +1,6 @@
 package com.waibizi;
-
-import com.waibizi.config.AppConfig;
-import com.waibizi.config.RedisConfig;
-import com.waibizi.service.SingleService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
 
 /**
  * @Author 歪鼻子
@@ -14,12 +8,9 @@ import org.springframework.context.annotation.ComponentScan;
  * @Description:
  * @Version 1.0
  */
+@SpringBootApplication
 public class WaibiziApplication {
-    public static void main(String[] args) {
-        AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext();
-        ac.register(AppConfig.class);
-        ac.register(RedisConfig.class);
-        ac.refresh();
-        SingleService singleService = (SingleService) ac.getBean(SingleService.class);
+    public static void main(String[] args) throws Exception {
+        SpringApplication.run(WaibiziApplication.class,args);
     }
 }
