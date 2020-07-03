@@ -1,6 +1,7 @@
 package com.waibizi.transaction;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.TransactionStatus;
@@ -13,20 +14,22 @@ import org.springframework.transaction.interceptor.DefaultTransactionAttribute;
  * @Version 1.0
  */
 @Component
+@Scope("prototype")
 public class TransactionUtils {
     /**
      * 注入事务源
      */
     @Autowired
     private DataSourceTransactionManager dataSourceTransactionManager;
+    private TransactionStatus transactionStatus;
     /**
      * 开启事务,采用默认的事务传播级别
      */
     public TransactionStatus begin(){
-        TransactionStatus transaction = dataSourceTransactionManager.
+        transactionStatus = dataSourceTransactionManager.
                 getTransaction(new DefaultTransactionAttribute());
 
-        return transaction;
+        return transactionStatus;
     }
     /**
      * 提交事务
@@ -37,7 +40,7 @@ public class TransactionUtils {
     /**
      * 回滚事务
      */
-    public void rollback(TransactionStatus transaction){
-        dataSourceTransactionManager.rollback(transaction);
+    public void rollback(){
+        dataSourceTransactionManager.rollback(transactionStatus);
     }
 }

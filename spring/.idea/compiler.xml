@@ -2,15 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="循环依赖-1" />
         <module name="spring-annotation" />
-        <module name="AOP-1" />
+        <module name="Spring事务" />
         <module name="AOP-2" />
         <module name="AOP" />
+        <module name="AOP-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +21,7 @@
       <module name="AOP-2" target="1.8" />
       <module name="spring" target="1.8" />
       <module name="spring-annotation" target="1.8" />
+      <module name="Spring事务" target="1.8" />
       <module name="循环依赖-1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

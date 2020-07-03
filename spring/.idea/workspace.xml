@@ -20,33 +20,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e2750a-c225-44d2-9651-80fd74218a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/config/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/service/SingleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/com/waibizi/service/SpringCacheService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/WaibiziApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Jedis/target/classes/com/waibizi/service/SingleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/WaibiziApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SingleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SingleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SpringCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/java/com/waibizi/service/SpringCacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/Spring-Data-Redis/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/ZSet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/ZSet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Redis/ZSet/src/test/java/com/waibizi/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Redis/ZSet/src/test/java/com/waibizi/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/Spring事务.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/annotation/WaibiziTransactional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/aop/AopTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/dao/MoneyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/dao/RentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/service/RentingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/java/com/waibizi/transaction/TransactionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring事务/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/java/com/waibizi/WaibiziApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/java/com/waibizi/dao/MoneyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/java/com/waibizi/dao/RentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/java/com/waibizi/service/RentingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/java/com/waibizi/service/impl/RentingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/com/waibizi/WaibiziApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/com/waibizi/dao/MoneyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/com/waibizi/dao/RentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/com/waibizi/service/RentingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/com/waibizi/service/impl/RentingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring事务/target/classes/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base/15不定参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Base/15不定参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/一级缓存/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/transaction/TransactionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-2/src/main/java/com/waibizi/transaction/TransactionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-annotation/spring-annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-annotation/spring-annotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/spring事务.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring事务/spring事务.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/spring事务.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring事务/源码/Isolation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -79,21 +102,54 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring事务/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\实习准备\面试准备\spring\Spring事务\src\main\resources" />
+      <recent name="E:\实习准备\面试准备\spring\Spring事务\src\main\java\com\waibizi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.waibizi.transaction" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\实习准备\面试准备\spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WaibiziApplication">
+  <component name="RunManager" selected="Application.Spring事务">
+    <configuration name="Spring事务" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.WaibiziApplication" />
+      <module name="Spring事务" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WaibiziApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.WaibiziApplication" />
       <module name="spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waibizi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.waibizi" />
+      <module name="AOP-2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.waibizi.*" />
@@ -117,8 +173,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.waibizi" />
+      <item itemvalue="Application.waibizi (1)" />
+      <item itemvalue="Application.WaibiziApplication" />
+      <item itemvalue="Application.Spring事务" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spring事务" />
+        <item itemvalue="Application.waibizi (1)" />
         <item itemvalue="Application.WaibiziApplication" />
         <item itemvalue="Application.waibizi" />
       </list>
@@ -145,6 +209,9 @@
       <workItem from="1593448555839" duration="53000" />
       <workItem from="1593596374852" duration="686000" />
       <workItem from="1593598142990" duration="9000" />
+      <workItem from="1593754282380" duration="2066000" />
+      <workItem from="1593757074408" duration="15008000" />
+      <workItem from="1593787285599" duration="1764000" />
     </task>
     <servers />
   </component>
@@ -167,10 +234,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="184" key="#Inspections" timestamp="1592068730879">
+    <state x="582" y="184" key="#Inspections" timestamp="1593770150494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="184" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068730879" />
+    <state x="582" y="184" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593770150494" />
+    <state x="312" y="0" key="#Project_Structure" timestamp="1593758898951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593758898951" />
+    <state x="410" y="167" width="1139" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593770143147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="167" width="1139" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593770143147" />
     <state x="718" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1592845561888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,57 +254,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593448607574" />
-    <state width="1869" height="178" key="GridCell.Tab.0.bottom" timestamp="1593006787340">
+    <state width="1869" height="399" key="GridCell.Tab.0.bottom" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593006787340" />
-    <state width="1869" height="178" key="GridCell.Tab.0.center" timestamp="1593006787340">
+    <state width="1869" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.0.center" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593006787340" />
-    <state width="1869" height="178" key="GridCell.Tab.0.left" timestamp="1593006787340">
+    <state width="1869" height="399" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.0.left" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593006787340" />
-    <state width="1869" height="178" key="GridCell.Tab.0.right" timestamp="1593006787340">
+    <state width="1869" height="399" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.0.right" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593006787340" />
-    <state width="1869" height="190" key="GridCell.Tab.1.bottom" timestamp="1592068921191">
+    <state width="1869" height="399" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.1.bottom" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068921191" />
-    <state width="1869" height="190" key="GridCell.Tab.1.center" timestamp="1592068921191">
+    <state width="1869" height="399" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.1.center" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="190" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068921191" />
-    <state width="1869" height="190" key="GridCell.Tab.1.left" timestamp="1592068921191">
+    <state width="1869" height="399" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.1.left" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="190" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068921191" />
-    <state width="1869" height="190" key="GridCell.Tab.1.right" timestamp="1592068921191">
+    <state width="1869" height="399" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1869" height="399" key="GridCell.Tab.1.right" timestamp="1593787266536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="190" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592068921191" />
+    <state width="1869" height="399" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
     <state x="374" y="92" key="Maven.ArtifactSearchDialog" timestamp="1592845084449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="374" y="92" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592845084449" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1592056006955">
+    <state x="312" y="0" key="SettingsEditor" timestamp="1593787518197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592056006955" />
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787518197" />
     <state x="695" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592058970861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="695" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592058970861" />
-    <state x="3" y="105" key="new project wizard" timestamp="1593006785328">
+    <state x="3" y="105" key="new project wizard" timestamp="1593757957769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593006785328" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592845027373">
+    <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593757957769" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593760531278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592845027373" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593760531278" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AOP$Spring.ic" NAME="Spring事务 Coverage Results" MODIFIED="1593786805902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.waibizi.*</FILTER>
+    </SUITE>
   </component>
 </project>

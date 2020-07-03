@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AOP-1/AOP.iml" filepath="$PROJECT_DIR$/AOP-1/AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AOP-1/AOP-1.iml" filepath="$PROJECT_DIR$/AOP-1/AOP-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AOP-2/AOP-2.iml" filepath="$PROJECT_DIR$/AOP-2/AOP-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring事务/Spring事务.iml" filepath="$PROJECT_DIR$/Spring事务/Spring事务.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-annotation/spring-annotation.iml" filepath="$PROJECT_DIR$/spring-annotation/spring-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/循环依赖-1/循环依赖-1.iml" filepath="$PROJECT_DIR$/循环依赖-1/循环依赖-1.iml" />
