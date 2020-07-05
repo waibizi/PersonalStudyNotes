@@ -93,6 +93,11 @@ public class ArrayList<E> implements Array<E> {
         elements[--size] = null;
         return old;
     }
+    public E remove(E element){
+        int index = indexOf(element);
+        return  remove(index);
+
+    }
     /**
      * @param element 传入元素
      * @return 返回传入元素的下标
