@@ -1,6 +1,5 @@
 package com.waibizi;
 
-import com.waibizi.bean.FirstBean;
 import com.waibizi.config.BeanConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
@@ -14,7 +13,5 @@ public class waibizi {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext ac =
                 new AnnotationConfigApplicationContext(BeanConfig.class);
-        FirstBean firstBean = (FirstBean) ac.getBean("FirstBean");
-        firstBean.toInvokeOtherBean();
     }
 }

@@ -22,6 +22,7 @@
         <module>必修数据结构</module>
         <module>必修数据结构/堆</module>
         <module>必修数据结构/动态数组</module>
+        <module>必修数据结构/链表</module>
     </modules>
 
     <build>

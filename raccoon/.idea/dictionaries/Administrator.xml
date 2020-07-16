@@ -2,7 +2,10 @@
   <dictionary name="Administrator">
     <words>
       <w>hoxton</w>
+      <w>kaptcha</w>
       <w>nacos</w>
+      <w>xiaoxiong</w>
+      <w>xioaxiong</w>
     </words>
   </dictionary>
 </component>

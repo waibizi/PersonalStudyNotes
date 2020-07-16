@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="观察者模式" />
         <module name="单例模式" />
         <module name="代理模式" />
       </profile>
@@ -13,6 +14,7 @@
     <bytecodeTargetLevel>
       <module name="代理模式" target="1.8" />
       <module name="单例模式" target="1.5" />
+      <module name="观察者模式" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,6 +11,7 @@
     <modules>
         <module>Java8</module>
         <module>并发包</module>
+        <module>Java获取操作系统信息</module>
     </modules>
 
     <dependencies>

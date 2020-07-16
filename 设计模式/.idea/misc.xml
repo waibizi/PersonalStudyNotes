@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/代理模式/pom.xml" />
         <option value="$PROJECT_DIR$/单例模式/pom.xml" />
+        <option value="$PROJECT_DIR$/观察者模式/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="center.raccoon.oauth2.project.mapper.LoginMapper">
+    <resultMap id="BaseResultMap" type="center.raccoon.oauth2.project.model.Login">
+        <id column="l_id" property="loginId" jdbcType="INTEGER"></id>
+        <result column="login_time" property="loginTime" jdbcType="DATE"></result>
+        <result column="login_ip" property="loginIp" jdbcType="VARCHAR"></result>
+        <result column="login_equipment" property="loginEquipment" jdbcType="VARCHAR"></result>
+        <result column="login_user" property="loginUser" jdbcType="VARCHAR"></result>
+    </resultMap>
+    <sql id="Base_Column_List">
+        l_id ,login_time ,login_ip ,login_equipment ,login_user
+    </sql>
+
+    <insert id="addLoginRecord" parameterType="center.raccoon.oauth2.project.model.Login">
+        insert into sys_login
+        (login_time,login_ip,login_equipment,login_user,token)
+        values (#{loginTime},#{loginIp},#{loginEquipment},#{loginUser},#{token})
+    </insert>
+
+</mapper>

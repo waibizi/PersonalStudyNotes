@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,6 +10,7 @@
         <module name="raccoon-oauth2-server" />
         <module name="raccoon-system-server" />
         <module name="raccoon-common" />
+        <module name="raccoon-common-server" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +18,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="raccoon" options="" />
       <module name="raccoon-common" options="-parameters" />
+      <module name="raccoon-common-server" options="-parameters" />
       <module name="raccoon-oauth2-server" options="-parameters" />
       <module name="raccoon-system-server" options="-parameters" />
     </option>

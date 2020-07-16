@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="center.raccoon.oauth2.project.mapper.UserMapper">
+
+    <!--类属性名和表字段名的映射关系-->
+    <resultMap id="BaseResultMap" type="center.raccoon.oauth2.project.model.User">
+        <id column="u_id" property="userId" jdbcType="INTEGER"></id>
+        <result column="user_name" property="userName" jdbcType="VARCHAR"></result>
+        <result column="user_password" property="userPassword" jdbcType="VARCHAR"></result>
+        <result column="user_enable" property="userEnable" jdbcType="INTEGER"></result>
+    </resultMap>
+
+    <!--自定义sql语句块-->
+    <sql id="Base_Column_List">
+        u_id ,user_name ,user_password ,user_enable
+    </sql>
+
+    <!--根据用户名获取用户信息-->
+    <select id="getUserByUserName" resultMap="BaseResultMap">
+        select <include refid="Base_Column_List"></include>
+        from sys_user
+        where user_name=#{username}
+    </select>
+
+    <insert id="addUser" parameterType="center.raccoon.oauth2.project.model.User">
+        insert into
+        sys_user (user_name,user_password,user_enable)
+        values (#{userName},#{userPassword},'0')
+    </insert>
+
+</mapper>

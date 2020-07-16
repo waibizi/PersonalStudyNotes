@@ -20,38 +20,147 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e2750a-c225-44d2-9651-80fd74218a8d" name="Default Changelist" comment="手写spring事务">
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/core/text/CharsetKit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/core/text/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/core/text/StrFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/result/RaccoonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/status/CodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/status/HttpStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/utils/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/src/main/java/center/raccoon/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/Oauth2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/AuthTokenAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/AuthServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/oauth2.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/public.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/group/ClientA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/group/ClientB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/group/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Base/16函数内存调用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__com_github_oshi_oshi_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_java_dev_jna_jna_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_java_dev_jna_jna_platform_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/Java获取操作系统信息.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/src/main/java/com/waibizi/SystemMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/核心技术卷2/流/src/main/java/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/ResponseSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/KaptchaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/RaccoonUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/RedisJwtClaimsSetVerifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CaptchaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomOauthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomOauthExceptionSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomWebResponseExceptionTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/RaccoonAuthExceptionEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/filter/CaptchaFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/handler/RaccoonAuthenticationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/handler/RaccoonAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/util/LoginUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/OnLineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/LoginMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/PermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Captcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/RaccoonUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/CaptchaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/OnlineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/PermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/CaptchaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/OnlineServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/LoginMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/PermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/sql/raccoon.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/BaiduSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/AObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/BObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/StudentOrganizationSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/self/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/tradition/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/tradition/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/src/main/java/com/waibizi/tradition/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/观察者模式/观察者模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/test/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/test/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/META-INF/NIO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/basic/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/map/MapBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/readOnly/ReadOnlyBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOClient1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOClient2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/ScatteringAndGathering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/NIOClient_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/Starter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/CountDownLatch/CountDownLatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/CountDownLatch/CountDownLatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/CyclicBarrier/CyclicBarrier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/CyclicBarrier/CyclicBarrier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/ReentrantLock/ReentrantLock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/ReentrantLock/ReentrantLock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/Semaphore/Semaphore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/Semaphore/Semaphore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/并发包.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/并发包.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程中止/线程中止.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程中止/线程中止.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程封闭/线程封闭.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程封闭/线程封闭.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程通信/线程通信.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程通信/线程通信.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Netty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/AuthTokenAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/AuthTokenAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/AuthServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/AuthServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/src/main/java/com/waibizi/dynamic/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/动态数组/src/main/java/com/waibizi/dynamic/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/FirstBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/bean/SecondBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/postProcessor/MyBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/waibizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/循环依赖-1/src/main/java/com/waibizi/waibizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/bean/FirstBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/bean/SecondBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/postProcessor/MyBeanFactoryPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/waibizi.class" beforeDir="false" afterPath="$PROJECT_DIR$/循环依赖-1/target/classes/com/waibizi/waibizi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../设计模式/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式/单例模式/单例模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/单例模式/单例模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +212,13 @@
       <recent name="E:\实习准备\面试准备\spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Spring事务">
-    <configuration name="Spring事务" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.waibizi.WaibiziApplication" />
-      <module name="Spring事务" />
+  <component name="RunManager" selected="Application.waibizi">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.bean.B" />
+      <module name="循环依赖-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="PATTERN" value="com.waibizi.bean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,9 +226,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaibiziApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.test.Client" />
+      <module name="循环依赖-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring事务" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.WaibiziApplication" />
-      <module name="spring-annotation" />
+      <module name="Spring事务" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.waibizi.*" />
@@ -159,15 +281,17 @@
     <list>
       <item itemvalue="Application.waibizi" />
       <item itemvalue="Application.waibizi (1)" />
-      <item itemvalue="Application.WaibiziApplication" />
       <item itemvalue="Application.Spring事务" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.waibizi" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.Spring事务" />
         <item itemvalue="Application.waibizi (1)" />
-        <item itemvalue="Application.WaibiziApplication" />
-        <item itemvalue="Application.waibizi" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +320,10 @@
       <workItem from="1593757074408" duration="15008000" />
       <workItem from="1593787285599" duration="3142000" />
       <workItem from="1593874347706" duration="1058000" />
+      <workItem from="1594055521854" duration="4089000" />
+      <workItem from="1594701025787" duration="37000" />
+      <workItem from="1594701090501" duration="26169000" />
+      <workItem from="1594790750513" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="手写spring事务">
       <created>1593793674932</created>
@@ -248,38 +376,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593874790510" />
-    <state width="1869" height="129" key="GridCell.Tab.0.bottom" timestamp="1593800053100">
+    <state width="1871" height="286" key="GridCell.Tab.0.bottom" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="129" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593800053100" />
-    <state width="1869" height="129" key="GridCell.Tab.0.center" timestamp="1593800053099">
+    <state width="1871" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.0.center" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="129" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593800053099" />
-    <state width="1869" height="129" key="GridCell.Tab.0.left" timestamp="1593800053099">
+    <state width="1871" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.0.left" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="129" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593800053099" />
-    <state width="1869" height="129" key="GridCell.Tab.0.right" timestamp="1593800053100">
+    <state width="1871" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.0.right" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="129" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593800053100" />
-    <state width="1869" height="399" key="GridCell.Tab.1.bottom" timestamp="1593787266536">
+    <state width="1871" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.1.bottom" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="399" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
-    <state width="1869" height="399" key="GridCell.Tab.1.center" timestamp="1593787266536">
+    <state width="1871" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.1.center" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="399" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
-    <state width="1869" height="399" key="GridCell.Tab.1.left" timestamp="1593787266536">
+    <state width="1871" height="286" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.1.left" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="399" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
-    <state width="1869" height="399" key="GridCell.Tab.1.right" timestamp="1593787266536">
+    <state width="1871" height="286" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
+    <state width="1871" height="286" key="GridCell.Tab.1.right" timestamp="1594789358021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="399" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593787266536" />
+    <state width="1871" height="286" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594789358021" />
     <state x="374" y="92" key="Maven.ArtifactSearchDialog" timestamp="1592845084449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -292,14 +420,68 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="695" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592058970861" />
+    <state x="221" y="184" width="1478" height="704" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594738117645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="184" width="1478" height="704" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594738117645" />
     <state x="3" y="105" key="new project wizard" timestamp="1593757957769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="3" y="105" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593757957769" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593874803010">
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1594730712448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593874803010" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594730712448" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1111</line>
+          <properties class="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory" method="createBeanInstance">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1318</line>
+          <properties class="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory" method="populateBean">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1723</line>
+          <properties class="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory" method="initializeBean">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionValueResolver.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1399</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1374</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1647</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AOP$Spring.ic" NAME="Spring事务 Coverage Results" MODIFIED="1593786805902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

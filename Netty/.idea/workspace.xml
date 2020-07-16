@@ -20,75 +20,100 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b3039f-ccd7-4de3-9163-4ecc5338de7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Java8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/Lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/BenchmarkLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Lambda/src/main/java/com/waibizi/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDK/Java8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Netty-Day2/Netty-Day2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Netty-Day2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Netty-Day2/src/main/java/com/waibizi/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/java/com/waibizi/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/JDBC/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zookeeper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/面试题32-I-从上到下打印二叉树/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/面试题32-III-从上到下打印二叉树 III/src/main/java/com/waibizi/solution_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/JDK.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/group/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__com_github_oshi_oshi_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_java_dev_jna_jna_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__net_java_dev_jna_jna_platform_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/Java获取操作系统信息.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/Java获取操作系统信息/src/main/java/com/waibizi/SystemMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDK/核心技术卷2/流/src/main/java/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/ResponseSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/KaptchaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/RaccoonUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CaptchaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomOauthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomOauthExceptionSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/CustomWebResponseExceptionTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/exception/RaccoonAuthExceptionEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/filter/CaptchaFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/handler/RaccoonAuthenticationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/handler/RaccoonAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/OnLineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/LoginMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/PermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Captcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/RaccoonUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/CaptchaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/PermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/CaptchaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/LoginMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/PermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/sql/raccoon.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/target/classes/center/raccoon/oauth2/framework/config/WebSecurityConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/target/classes/center/raccoon/oauth2/framework/filter/CaptchaFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/target/classes/center/raccoon/oauth2/framework/handler/RaccoonAuthenticationFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/test/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/src/main/java/com/waibizi/test/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/META-INF/NIO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/File/Channel_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/basic/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/map/MapBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/readOnly/ReadOnlyBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOClient1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOClient2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/socket/ScatteringAndGathering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/NIOClient_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIO、NIO与AIO/NIO/target/classes/com/waibizi/test/Starter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDK/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/Optional.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Optional/target/classes/com/waibizi/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/Java8/Stream/Stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/CountDownLatch/CountDownLatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/CountDownLatch/CountDownLatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/CyclicBarrier/CyclicBarrier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/CyclicBarrier/CyclicBarrier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/ReentrantLock/ReentrantLock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/ReentrantLock/ReentrantLock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/Semaphore/Semaphore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/Semaphore/Semaphore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/并发包/并发包.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/并发包/并发包.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程中止/线程中止.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程中止/线程中止.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程封闭/线程封闭.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程封闭/线程封闭.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDK/微专业/线程通信/线程通信.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDK/微专业/线程通信/线程通信.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/main/java/com/waibizi/helloWorld/HttpServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/target/classes/com/waibizi/helloWorld/HttpServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/AuthTokenAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/aspect/AuthTokenAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/AuthServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/framework/config/AuthServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/java/center/raccoon/oauth2/project/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../raccoon/raccoon-oauth2-server/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/src/main/java/com/waibizi/syn/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/target/classes/com/waibizi/syn/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/可重入锁/可重入锁.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/src/main/java/com/waibizi/spin_1/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/自旋锁/target/classes/com/waibizi/spin_1/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/cache/ReadWriteLockCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/读写锁/src/main/java/com/waibizi/demo/ReadWriteLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/DefQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../锁机制/读写锁/target/classes/com/waibizi/ReadWriteLockDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +197,7 @@
       <workItem from="1592463020419" duration="277000" />
       <workItem from="1592463315119" duration="9000" />
       <workItem from="1592463385452" duration="4000" />
+      <workItem from="1594277661446" duration="598000" />
     </task>
     <servers />
   </component>

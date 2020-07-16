@@ -128,8 +128,6 @@ public class NIOServer {
 //        channel.write(welcome.duplicate());
         welcome.flip();
         channel.write(welcome);
-
-
     }
 
     /**
