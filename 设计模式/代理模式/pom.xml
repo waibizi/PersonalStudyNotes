@@ -21,6 +21,11 @@
             <artifactId>asm-all</artifactId>
             <version>5.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.tobato</groupId>
+            <artifactId>fastdfs-client</artifactId>
+            <version>1.26.7</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
