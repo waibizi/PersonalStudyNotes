@@ -20,9 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/src/main/java/com/waibizi/BubbleSortProPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修算法/十大排序/冒泡排序/target/classes/com/waibizi/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/waibizi.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/循环链表/SingleCircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/src/main/java/com/waibizi/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/target/classes/com/waibizi/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/AbstractList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/AbstractList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +71,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.spin_1.Demo" />
       <module name="自旋锁" />
@@ -101,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteLockDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waibizi.test.ReadWriteLockDemo" />
-      <module name="读写锁" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.waibizi.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waibizi.demo.ReadWriteLockDemo" />
       <module name="读写锁" />
@@ -127,20 +124,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waibizi.Test" />
+      <module name="wait跟sleep字节码分析" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waibizi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ReadWriteLockDemo" />
-      <item itemvalue="Application.ReadWriteLockDemo (1)" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
       <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ReadWriteLockDemo" />
-        <item itemvalue="Application.ReadWriteLockDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +172,7 @@
       <workItem from="1592117840355" duration="10173000" />
       <workItem from="1592814338336" duration="648000" />
       <workItem from="1592903736901" duration="1229000" />
+      <workItem from="1595298025098" duration="2582000" />
     </task>
     <servers />
   </component>
@@ -200,22 +211,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592024804611" />
-    <state width="1869" height="258" key="GridCell.Tab.0.bottom" timestamp="1592294269818">
+    <state width="1871" height="93" key="GridCell.Tab.0.bottom" timestamp="1595302374547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592294269818" />
-    <state width="1869" height="258" key="GridCell.Tab.0.center" timestamp="1592294269817">
+    <state width="1871" height="93" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595302374547" />
+    <state width="1871" height="93" key="GridCell.Tab.0.center" timestamp="1595302374547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="258" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592294269817" />
-    <state width="1869" height="258" key="GridCell.Tab.0.left" timestamp="1592294269816">
+    <state width="1871" height="93" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595302374547" />
+    <state width="1871" height="93" key="GridCell.Tab.0.left" timestamp="1595302374546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="258" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592294269816" />
-    <state width="1869" height="258" key="GridCell.Tab.0.right" timestamp="1592294269817">
+    <state width="1871" height="93" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595302374546" />
+    <state width="1871" height="93" key="GridCell.Tab.0.right" timestamp="1595302374547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1869" height="258" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592294269817" />
+    <state width="1871" height="93" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595302374547" />
     <state width="1869" height="258" key="GridCell.Tab.1.bottom" timestamp="1592294269819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,9 +247,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592126003316" />
-    <state x="7" y="84" key="new project wizard" timestamp="1592814371518">
+    <state x="7" y="84" key="new project wizard" timestamp="1595298059351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592814371518" />
+    <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595298059351" />
   </component>
 </project>

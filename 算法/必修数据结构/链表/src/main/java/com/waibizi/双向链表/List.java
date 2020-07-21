@@ -1,4 +1,4 @@
-package com.waibizi;
+package com.waibizi.双向链表;
 
 /**
  * @Author 歪鼻子
@@ -8,7 +8,6 @@ package com.waibizi;
  */
 public interface List<E> {
     static final int ELEMENT_NOT_FOUND = -1;
-
     /**
      * 清除所有元素
      */
@@ -67,6 +66,8 @@ public interface List<E> {
      * @return
      */
     E remove(int index);
+
+
 
     /**
      * 查看元素的索引

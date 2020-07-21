@@ -1,4 +1,4 @@
-package com.waibizi;
+package com.waibizi.双向链表;
 
 /**
  * @Author 歪鼻子
@@ -9,7 +9,6 @@ package com.waibizi;
 public class LinkedList<E> extends AbstractList<E>{
     private Node<E> first;
     private Node<E> last;
-
     @Override
     public void clear() {
         size = 0;
@@ -56,7 +55,6 @@ public class LinkedList<E> extends AbstractList<E>{
             }
         }
         size++;
-
     }
 
     @Override

@@ -9,8 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Volatile不具备原子性" />
         <module name="公平锁与非公平锁" />
-        <module name="StampedLock锁" />
         <module name="可重入锁" />
+        <module name="StampedLock锁" />
+        <module name="wait跟sleep字节码分析" />
         <module name="volatile内存屏障例子" />
         <module name="自旋锁" />
         <module name="指令重排" />
@@ -23,6 +24,7 @@
       <module name="StampedLock锁" target="1.8" />
       <module name="Volatile不具备原子性" target="1.8" />
       <module name="volatile内存屏障例子" target="1.8" />
+      <module name="wait跟sleep字节码分析" target="1.8" />
       <module name="公平锁与非公平锁" target="1.8" />
       <module name="可重入锁" target="1.8" />
       <module name="指令重排" target="1.8" />
