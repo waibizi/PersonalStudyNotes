@@ -26,6 +26,7 @@
         <module>面试题24-反转链表</module>
         <module>面试题-06-从尾到头打印链表</module>
         <module>141-环形链表</module>
+        <module>必修数据结构/栈</module>
     </modules>
 
     <build>

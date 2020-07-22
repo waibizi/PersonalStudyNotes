@@ -20,20 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a7c8c5-64a0-471a-8619-e22b55e9e48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mybatis/一级缓存/src/main/java/com/waibizi/waibizi.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/循环链表/SingleCircleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/src/main/java/com/waibizi/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/target/classes/com/waibizi/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StampedLock锁/src/main/java/com/waibizi/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/AbstractList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/AbstractList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/双向循环链表/DoubleCircleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/双向循环链表/DoubleCircleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +170,7 @@
       <workItem from="1592814338336" duration="648000" />
       <workItem from="1592903736901" duration="1229000" />
       <workItem from="1595298025098" duration="2582000" />
+      <workItem from="1595339476092" duration="522000" />
     </task>
     <servers />
   </component>
@@ -251,5 +249,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="7" y="84" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595298059351" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1595339691471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595339691471" />
   </component>
 </project>

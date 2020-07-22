@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e32935d6-9008-4f88-a3b4-2940fbb8bce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/list/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../算法/必修数据结构/栈/src/main/java/com/waibizi/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/zqu/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/zqu/MpdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/zqu/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/zqu/CodeGenerator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/zqu/CodeGenerator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/zqu/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/zqu/MpdemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/zqu/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/逆向工程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../锁机制/StampedLock锁/src/main/java/com/waibizi/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../锁机制/wait跟sleep字节码分析/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring源码研究/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring源码研究/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/双向循环链表/DoubleCircleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/必修数据结构/链表/src/main/java/com/waibizi/双向链表/双向循环链表/DoubleCircleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../锁机制/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../锁机制/wait跟sleep字节码分析/wait跟sleep字节码分析.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\softwares\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2JvsXYr3paYzqrxNrjPifNVaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.zqu.CodeGenerator" />
+      <module name="逆向工程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zqu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e32935d6-9008-4f88-a3b4-2940fbb8bce7" name="Default Changelist" comment="" />
+      <created>1595410487079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595410487079</updated>
+      <workItem from="1595410489437" duration="2678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="216" key="FileChooserDialogImpl" timestamp="1595410635386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="216" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595410635386" />
+    <state width="1871" height="340" key="GridCell.Tab.0.bottom" timestamp="1595412187038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595412187038" />
+    <state width="1871" height="340" key="GridCell.Tab.0.center" timestamp="1595412187038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="340" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595412187038" />
+    <state width="1871" height="340" key="GridCell.Tab.0.left" timestamp="1595412187038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="340" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595412187038" />
+    <state width="1871" height="340" key="GridCell.Tab.0.right" timestamp="1595412187038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="340" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595412187038" />
+    <state x="381" y="78" key="SettingsEditor" timestamp="1595410636963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="381" y="78" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595410636963" />
+  </component>
+</project>

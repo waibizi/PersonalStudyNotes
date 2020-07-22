@@ -23,6 +23,7 @@ public class LinkedList<E> extends AbstractList<E>{
 
     @Override
     public E set(int index, E element) {
+        rangeCheck(index);
         Node<E> node = node(index);
         E old = node.element;
         node.element = element;

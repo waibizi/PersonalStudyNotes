@@ -25,7 +25,11 @@ public class DoubleCircleLinkedList<E> extends AbstractList<E> {
 
     @Override
     public E set(int index, E element) {
-        return null;
+        rangeCheck(index);
+        Node<E> node = node(index);
+        E old = node.element;
+        node.element = element;
+        return old;
     }
 
     /**
@@ -88,8 +92,22 @@ public class DoubleCircleLinkedList<E> extends AbstractList<E> {
 
     @Override
     public int indexOf(E element) {
-        return 0;
+        if (element == null){
+            Node<E> node = first;
+            for (int i = 0; i < size; i++){
+                if (node.element == null) return i;
+                node = node.next;
+            }
+        }else {
+            Node<E> node = first;
+            for (int i = 0; i<size; i++){
+                if (node.element == element) return i;
+                node = node.next;
+            }
+        }
+        return ELEMENT_NOT_FOUND;
     }
+
     private Node<E> node(int index) {
         rangeCheck(index);
         if (index < (size >> 1)) {
